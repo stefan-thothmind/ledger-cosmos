@@ -17,7 +17,7 @@
     "test": "ts-node tests/pullImageKillOld.ts && jest"
   },
   "dependencies": {
-    "@zondax/ledger-cosmos-js": "^3.0.2",
+    "@zondax/ledger-cosmos-js": "^4.0.0",
     "@zondax/zemu": "^0.34.0"
   },
   "devDependencies": {
